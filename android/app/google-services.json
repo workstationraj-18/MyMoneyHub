@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801605756069",
+    "project_id": "mymoneyhub18",
+    "storage_bucket": "mymoneyhub18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801605756069:android:a2ed16e20f158beb59d94c",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfSqVdvFuGirgZLsHYg0iMqnJ-DNkv_Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
